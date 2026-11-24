@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-A graduation project for campus epidemic management. The admin console brings together campus records, student and teacher temperature monitoring, travel records, and regional epidemic statistics.
+A graduation project for campus epidemic monitoring. The admin console manages student and staff records, tracks temperatures and travel histories, and presents statistics for cities, provinces and the country.
 
 ## Project layout
 
